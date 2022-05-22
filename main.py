@@ -38,7 +38,7 @@ markup_admin.add(answer_key)
 
 admin = 999985425
 
-bot = telebot.TeleBot('1475132639:AAHCT1bYLRizNvTNGylCrvjQGOlm2cDfEhc')
+bot = telebot.TeleBot('5354654063:AAFJsCbnLDJfsF1nXTQc9j1axshkTU3PLac')
 
 
 @bot.message_handler(commands=["start"])
